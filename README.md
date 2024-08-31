@@ -32,7 +32,7 @@ To compile and run the project, follow the instructions below.
     ```
 2. Ensure that the `LIBFT` directory is present. If not, clone the `libft` repository:
     ```bash
-    git clone https://github.com/your-username/libft LIBFT
+    git clone https://github.com/tohmeh/libft LIBFT
     ```
 3. Compile the project using the provided Makefile:
     ```bash
