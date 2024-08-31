@@ -27,13 +27,13 @@ To compile and run the project, follow the instructions below.
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/pipex
+    git clone https://github.com/tohmeh/Pipex
     cd pipex
     ```
 2. Ensure that the `LIBFT` directory is present. If not, clone the `libft` repository:
     ```bash
-    git clone https://github.com/tohmeh/libft LIBFT
-    ```
+    git clone https://github.com/tohmeh/LIBFT
+        ```
 3. Compile the project using the provided Makefile:
     ```bash
     make
